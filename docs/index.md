@@ -16,3 +16,7 @@ Once you've got a hierarchy defined, you can get on with keywording your photos.
 * [Keyword Attributes](keyword-attributes.md)
 * [Selecting Keywords](selecting-keywords.md)
 * [App Settings](settings.md)
+
+# Support
+* [Report issues](https://github.com/mthalman/keywordcomplete/issues/new/choose)
+* [Email](keywordcomplete@outlook.com)
