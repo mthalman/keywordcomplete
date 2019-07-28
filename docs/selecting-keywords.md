@@ -14,6 +14,8 @@ In this stage, you're selecting the relevant keywords that you want to include. 
 
 To select a keyword, just type into the "Select Keyword" textbox in the Select stage portion of the screen. This will automatically lookup keywords that begin with that text from your keyword hierarchy. When you pick one, it'll be added as a selected keyword. If you don't happen to have a keyword that matches the text you type, one will automatically be added when you hit Enter. By default, it will be added as a root keyword. If you want the option to set which parent keyword it should be contained within, enable the "Prompt to set state for new keywords" option in the [Options](options.md) panel.
 
+Instead of typing a keyword, you also have the option to select a keyword directly from the hierarchy tree by right-clicking the keyword and select the "Select" menu item. Or you can simply drag the keyword from the hierarchy tree and drop it into the Select Stage area.
+
 To remove a specific keyword just click the X button on the selected keyword. To remove all selected keywords, click the Clear button.
 
 -INSERT GIF-
