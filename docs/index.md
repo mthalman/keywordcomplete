@@ -7,4 +7,8 @@ The power of Keyword Complete comes from the data contained in the [keyword hier
 Once you've got a hierarchy defined, you can get on with keywording your photos. Simply [select](selecting-keywords.md) the keywords that already exist in your hierarchy, or add new ones, and each of those keywords will be expanded based on the hierarchy and the keyword's [attributes](keyword-attributes.md). If you've defined a well-structured hierarchy, you barely have to do any typing and you've now got a comprehensive set of keywords that you can copy and paste into your photo management app.
 
 # Help Topics
+* [Keyword Hierarchy](keyword-hierarchy.md)
 * [Importing Keywords](importing-keywords.md)
+* [Keyword Attributes](keyword-attributes.md)
+* [Selecting Keywords](selecting-keywords.md)
+* [App Settings](settings.md)
