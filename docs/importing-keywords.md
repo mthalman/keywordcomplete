@@ -1,3 +1,5 @@
+# Importing Keywords
+
 Keywords can easily be imported into the app. When keywords are imported, they are added to your existing hierarchy.
 
 ## File Formats Supported
