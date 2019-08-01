@@ -15,6 +15,7 @@ Once you've got a hierarchy defined, you can get on with keywording your photos.
 * [Importing Keywords](importing-keywords.md)
 * [Keyword Attributes](keyword-attributes.md)
 * [Selecting Keywords](selecting-keywords.md)
+* [Keyword Sets](keyword-sets.md)
 * [App Settings](settings.md)
 
 # Support
