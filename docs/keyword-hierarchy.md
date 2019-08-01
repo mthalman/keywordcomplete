@@ -2,7 +2,7 @@
 
 The keyword hierarchy allows you to organize all of the keywords in your database. This is a hierarchical system in that each keyword can have its own collection of child keywords. There is no limit to the depth of keywords that you can create. To view the hierarchy, select the Keyword Hierarchy view button on the left panel.
 
--INSERT SCREENSHOT-
+![Hierarchy](images/hierarchy.png)
 
 ## Adding a new keyword
 
@@ -26,7 +26,7 @@ To remove a keyword, right-click the keyword in the hierarchy tree and select "D
 
 In some cases, you'll want to move a keyword so that it exists under a different parent. This can easily be done by dragging and dropping it where you want it to go. If you want a child keyword to be at the root level, right-click it and select "Set as Root".
 
--INSERT GIF-
+![Move Keyword](images/move-keyword.gif)
 
 ## Filtering
 
@@ -34,4 +34,4 @@ The hierarchy tree can be filtered down to keywords that contain the text that i
 
 By default, the hierarchy tree will be filtered to keywords whose name contain the text in the filter box. If you check the "Search synonyms" box, the filtering logic will also look for matching text in the [synonyms](keyword-attributes.md) of each keyword.
 
--INSERT GIF-
+![Filter Keywords](images/filter.gif)

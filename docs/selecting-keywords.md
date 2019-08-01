@@ -18,7 +18,7 @@ Instead of typing a keyword, you also have the option to select a keyword direct
 
 To remove a specific keyword just click the X button on the selected keyword. To remove all selected keywords, click the Clear button.
 
--INSERT GIF-
+![Select Keyword](images/select-keyword.gif)
 
 ### Rules for Keyword Generation
 
@@ -33,11 +33,11 @@ For a given selected keyword,
 ## Refine Stage
 Once you've selected your keywords you have the opportunity to efficiently refine the keywords that have been generated. You can remove keywords that have been generated that you feel are not relevant to the specific case you're working on by simply clicking the X button on the keywords.
 
--INSERT GIF-
+![Refine Keywords](images/refine.gif)
 
 ## Copy Stage
 Now that you've got the full list of keywords, you can copy and paste them into your photo management app. To copy the keywords to the clipboard, just click the button with the copy icon next to the Copy stage.
 
 Depending on the target app, it may require the list of keywords to be in a specific format. For example, they may need to be comma-delimited or semicolon-delimited. To change the format of the list of keywords, choose the desired format from the dropdown on the right side. There's also the option to convert all the text to lowercase if you wish.
 
--INSERT GIF-
+![Copy Keywords](images/copy-keywords.gif)
