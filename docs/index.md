@@ -20,4 +20,5 @@ Once you've got a hierarchy defined, you can get on with keywording your photos.
 
 # Support
 * [Report issues](https://github.com/mthalman/keywordcomplete/issues/new/choose)
+* [Privacy policy](privacy-policy.md)
 * Email: <a href="mailto:keywordcomplete@outlook.com">keywordcomplete@outlook.com</a>
